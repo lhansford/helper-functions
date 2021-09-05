@@ -1,4 +1,3 @@
-
 /**
  * Get a random integer from min to max (inclusive).
  */
